@@ -6,7 +6,7 @@ public class Ejercicio11mio {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.print("Dime un numero: ");
+        System.out.print("Dime un nnumero: ");
         int n = sc.nextInt();
         
         for (int fila = 1; fila <= n; fila++){
