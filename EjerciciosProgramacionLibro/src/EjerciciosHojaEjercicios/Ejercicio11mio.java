@@ -20,5 +20,4 @@ public class Ejercicio11mio {
             System.out.println("");
         }
     }
-    
 }
